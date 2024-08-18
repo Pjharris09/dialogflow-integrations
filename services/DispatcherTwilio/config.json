@@ -1,0 +1,11 @@
+{
+    "name": "DispatcherTwilio",
+    "type": "twilio",
+    "config": {
+        "sid": "ACdc45b6edb278af9811e72ac3499622da"
+    },
+    "secret_config": {
+        "auth_token": "twilio"
+    },
+    "version": 1
+}
